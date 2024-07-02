@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>cb83f8d9-8846-4b16-b36a-af5b8ecf85a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_MainContent_ucEditRoster_grdStaffSelect']/tbody/tr[2]/td/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.wl-wijmo-c1gridview-alternatingrowstyle.wijmo-wijgrid-row.ui-widget-content.wijmo-wijgrid-datarow.wijmo-wijgrid-alternatingrow.ui-state-default.ui-state-hover > td.wijgridtd.wijdata-type-string > div.wijmo-wijgrid-innercell > div.wl-grid-checkbox > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Bark, Trav TEST PAY GROUP Chef&quot;i] >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b8bc5824-0b4c-4466-9d15-b84f224018ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_ucEditRoster_grdStaffSelect_ctl04_SelectStaff</value>
+      <webElementGuid>ec0234ca-c981-48ee-b116-c103727eafcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_ucEditRoster_grdStaffSelect&quot;)/tbody[@class=&quot;ui-widget-content&quot;]/tr[@class=&quot;wl-wijmo-c1gridview-alternatingrowstyle wijmo-wijgrid-row ui-widget-content wijmo-wijgrid-datarow wijmo-wijgrid-alternatingrow ui-state-default ui-state-hover&quot;]/td[@class=&quot;wijgridtd wijdata-type-string&quot;]/div[@class=&quot;wijmo-wijgrid-innercell&quot;]/div[@class=&quot;wl-grid-checkbox&quot;]/label[1]</value>
+      <webElementGuid>97b5d048-7a41-45cc-9c61-400460c37a23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_ucEditRoster_grdStaffSelect']/tbody/tr[2]/td/div/div/label</value>
+      <webElementGuid>2b88778e-9080-4305-9322-cd999aa5ed1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 2'])[1]/following::label[1]</value>
+      <webElementGuid>6775fb80-e9cb-4408-ba25-452d3e9473b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casual'])[3]/following::label[1]</value>
+      <webElementGuid>59239766-c7ab-4e41-974b-be0d65260f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bark, Trav'])[1]/preceding::label[1]</value>
+      <webElementGuid>d9a7acf0-ca1b-45e9-b32e-9ef317995795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST PAY GROUP'])[3]/preceding::label[1]</value>
+      <webElementGuid>d6cf4399-d5a5-48d2-90f3-21e40eaab65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/label</value>
+      <webElementGuid>f9daac36-f8ea-4c76-ba4b-dd2b87f34a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_ucEditRoster_grdStaffSelect']/tbody/tr[20]/td/div/div/label</value>
+      <webElementGuid>1448642f-7bca-4773-ac0f-dca3db7a8fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 2'])[10]/following::label[1]</value>
+      <webElementGuid>6d6e5066-6724-434c-a4de-26681d47e552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casual'])[15]/following::label[1]</value>
+      <webElementGuid>8f90edc4-5250-4cb8-8e2a-92b4fa64fece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jordan, Hal'])[1]/preceding::label[1]</value>
+      <webElementGuid>5dc2d9de-6d70-4f78-a09f-e3b7ef4e1fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST PAY GROUP'])[4]/preceding::label[1]</value>
+      <webElementGuid>15fda41e-0ad4-4fd2-affb-df55ae7c5165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td/div/div/label</value>
+      <webElementGuid>7afd6a48-c869-4df7-bffb-2d21481381db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_ucEditRoster_grdStaffSelect']/tbody/tr[21]/td/div/div/label</value>
+      <webElementGuid>3162fe9f-7836-4456-bbff-331322024ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurant Manager'])[1]/following::label[1]</value>
+      <webElementGuid>f1948900-e438-4250-888a-8c70f5e0a49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST PAY GROUP'])[4]/following::label[1]</value>
+      <webElementGuid>6ce45e05-72d0-49a9-a9fc-48b2d2ed7e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JRot'])[1]/preceding::label[1]</value>
+      <webElementGuid>21dc9d53-8c6b-4086-9d6a-4c084a0f10fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST PAY GROUP'])[5]/preceding::label[1]</value>
+      <webElementGuid>d993ee39-13f8-40e6-8939-0d95b3c40a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[21]/td/div/div/label</value>
+      <webElementGuid>b379d03d-5a60-42cf-8204-471b43fc3a78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

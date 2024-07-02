@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC001 - Create clock in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c12997b-5db1-4493-a930-9b6520728afc</testCaseGuid>
+</TestCaseEntity>

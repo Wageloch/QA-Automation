@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_No_fas fa-times wl-btn-icon-left</name>
+   <tag></tag>
+   <elementGuidId>5c2d7d35-8340-4d72-8308-af746c8fe021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-times.wl-btn-icon-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ucMessageBox_btnNo']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;No &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a88ae2d4-949d-4120-a089-9c3dc7940204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-times wl-btn-icon-left</value>
+      <webElementGuid>ebd73670-70c2-46bf-bbb6-dc7738ab1aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucMessageBox_btnNo&quot;)/i[@class=&quot;fas fa-times wl-btn-icon-left&quot;]</value>
+      <webElementGuid>9f34c3e9-8120-454b-9f3f-11e414b2ab06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ucMessageBox_btnNo']/i</value>
+      <webElementGuid>f5c975e8-59b3-4018-8882-86f023c375b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>45e3e0a7-97bd-4519-bf42-2d58bba51faf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

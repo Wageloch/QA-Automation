@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC001 - Create blank roster</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39fca230-e192-45f0-9006-3f7d2a26a32d</testCaseGuid>
+</TestCaseEntity>

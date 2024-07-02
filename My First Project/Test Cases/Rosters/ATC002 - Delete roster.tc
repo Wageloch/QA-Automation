@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC002 - Delete roster</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a53563c-64cb-49ec-b86d-2a28c41a9889</testCaseGuid>
+</TestCaseEntity>

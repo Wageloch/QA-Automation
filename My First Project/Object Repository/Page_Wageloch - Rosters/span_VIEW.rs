@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_VIEW</name>
+   <tag></tag>
+   <elementGuidId>9d5defc4-3e75-4b46-bcf9-01882a319b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wl-txt-blue > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_MainContent_grdCurrent']/tbody/tr/td[6]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0b3a42f-36b8-4368-98e6-ec1897aede04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW</value>
+      <webElementGuid>3ade9c52-1bda-42dc-a96a-8a0b5bb84f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_grdCurrent&quot;)/tbody[@class=&quot;ui-widget-content&quot;]/tr[@class=&quot;wijmo-wijgrid-row ui-widget-content wijmo-wijgrid-datarow ui-state-default ui-state-hover&quot;]/td[@class=&quot;wijgridtd wijdata-type-string&quot;]/div[@class=&quot;wijmo-wijgrid-innercell&quot;]/a[@class=&quot;wl-txt-blue&quot;]/span[1]</value>
+      <webElementGuid>26eca383-edc6-4792-9166-e582792d3d07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_grdCurrent']/tbody/tr/td[6]/div/a/span</value>
+      <webElementGuid>4483d9e5-e5cb-47b2-9bf1-c1567ddc78ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current/Previous Rosters'])[1]/following::span[1]</value>
+      <webElementGuid>d8987e27-b5a0-4b96-8b15-e14429b18660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::span[2]</value>
+      <webElementGuid>2eb6912e-fe6c-44d0-8f05-4c3d1d5796d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW'])[2]/preceding::span[1]</value>
+      <webElementGuid>0773b2e3-1ba2-4960-beb4-27c71def1347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW'])[3]/preceding::span[2]</value>
+      <webElementGuid>1e0c5059-c9de-4ef1-bd10-f65bda79d786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW']/parent::*</value>
+      <webElementGuid>61cb27a0-e7f9-4973-b1ff-d4be282a8120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>d512575d-8d93-4de1-9746-4c4a613a2f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'VIEW' or . = 'VIEW')]</value>
+      <webElementGuid>040852c5-c9a8-4467-b1a8-b0958080327c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

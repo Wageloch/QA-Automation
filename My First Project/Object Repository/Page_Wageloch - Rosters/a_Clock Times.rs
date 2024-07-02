@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Clock Times</name>
+   <tag></tag>
+   <elementGuidId>1edaeecb-3c7a-47d7-9453-be206d865998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnClocktimes</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnClocktimes']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Clock Times&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcc7d339-5804-4038-b3b6-a267ca5acdb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnClocktimes</value>
+      <webElementGuid>27d44500-d471-48c5-925d-40646d841ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$btnClocktimes','')</value>
+      <webElementGuid>63a5da4b-2634-4fcb-9612-fff4580ee899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clock Times</value>
+      <webElementGuid>4b1c1599-5cf5-4348-8846-c03ea2b35d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnClocktimes&quot;)</value>
+      <webElementGuid>95fc750c-968f-4d2f-b69d-0182e5290185</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnClocktimes']</value>
+      <webElementGuid>eceb8442-86b7-4e66-9374-1a7bdc5e9b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mnuclocktimes']/a</value>
+      <webElementGuid>609a3dd5-9b61-4bdb-b35f-be9fad3fedda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Clock Times')]</value>
+      <webElementGuid>d5ce399d-9f87-46b4-9e65-0cb8a4e24104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff'])[1]/following::a[1]</value>
+      <webElementGuid>46937e6d-1069-417b-a028-cb95b4536154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheets'])[1]/following::a[2]</value>
+      <webElementGuid>8bf37467-a9f2-4485-8b96-a64b8da06ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>23c882f3-ad38-4a72-a885-a9907f6403fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR'])[1]/preceding::a[2]</value>
+      <webElementGuid>0a2f52d0-c88f-4013-871d-50c696345f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clock Times']/parent::*</value>
+      <webElementGuid>6cbac1d0-9380-4f6d-a2c0-2bf58d0071fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$btnClocktimes','')&quot;)]</value>
+      <webElementGuid>a781d548-c4f9-47b1-94ec-047ceb43b8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>d243348b-1b6a-43da-83c7-c29eb179b731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnClocktimes' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$btnClocktimes&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Clock Times' or . = 'Clock Times')]</value>
+      <webElementGuid>631a1552-7ca3-47b7-b5ca-fd8a13961184</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

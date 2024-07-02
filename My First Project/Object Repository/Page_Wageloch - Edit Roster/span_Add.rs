@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add</name>
+   <tag></tag>
+   <elementGuidId>e8750773-48ba-46cb-806d-d96b258277ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='MainContent_ucEditRoster_ctl01_btnAddRow']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MainContent_ucEditRoster_ctl01_btnAddRow > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b437c92-84fd-4814-bb23-7bd7d83d79b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>92ee0c1e-a264-4c5b-a0ff-51a9b6f842a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ucEditRoster_ctl01_btnAddRow&quot;)/span[1]</value>
+      <webElementGuid>85864110-762a-41f2-8415-9910d952dc7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='MainContent_ucEditRoster_ctl01_btnAddRow']/span</value>
+      <webElementGuid>b89c588b-922f-48b5-835a-fb6b61fd5894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Cost Per Shift'])[1]/following::span[1]</value>
+      <webElementGuid>ae80c330-fcd0-4adc-89b0-acc02de7d113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Notes'])[1]/following::span[1]</value>
+      <webElementGuid>43b30e49-0750-492c-a0e5-bf6f01f86f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::span[1]</value>
+      <webElementGuid>e217ebcf-3cb4-4d3c-970f-6a0852d96404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::span[2]</value>
+      <webElementGuid>df9261c3-bd07-4322-b70f-626feafe4913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>fe6aad7a-0a2c-490d-8fad-f141986fa03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/span</value>
+      <webElementGuid>f08870fd-1c3a-4c0c-942f-cf6c3e3de034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>2b4f700d-d60d-45dd-a9a4-906353f186b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

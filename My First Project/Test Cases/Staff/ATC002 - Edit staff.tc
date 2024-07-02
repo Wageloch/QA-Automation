@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC002 - Edit staff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06bba949-db5e-469a-9bd1-521cc9c7ba10</testCaseGuid>
+</TestCaseEntity>

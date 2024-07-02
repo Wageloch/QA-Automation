@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Print Landscape_zloader</name>
+   <tag></tag>
+   <elementGuidId>da5e8c72-09bf-420d-a120-ad48ec500b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#UpdatePp1 > div.zloader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UpdatePp1']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#UpdatePp1 div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d71f4f82-2f34-4acc-ac7a-4f1810be1b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zloader</value>
+      <webElementGuid>dec15ce8-7aa3-48c4-9d0d-cd6997ebf0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UpdatePp1&quot;)/div[@class=&quot;zloader&quot;]</value>
+      <webElementGuid>34073aba-af47-483e-b079-62b6a85ae4f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePp1']/div</value>
+      <webElementGuid>998f3140-dc5b-424f-9e9c-6a95870c3d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Landscape'])[1]/following::div[2]</value>
+      <webElementGuid>c4d3353b-bfce-40a9-9ed3-3f2f297bee91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Tick Boxes for Next Time (Exclude Dates and Stores)'])[1]/following::div[3]</value>
+      <webElementGuid>25fe0b60-f23a-40de-8c1b-9777bf8b5ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::div[5]</value>
+      <webElementGuid>e7e89cb7-2f8c-440a-9374-f6932edbb0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::div[7]</value>
+      <webElementGuid>04f86160-4399-431c-a489-060ea4342cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div</value>
+      <webElementGuid>e15ddc28-e28b-45e9-98f4-0eed2f9c29a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

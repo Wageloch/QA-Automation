@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>d83cf9bf-57eb-4fba-a540-ba4f25c5c409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wl-btn.wl-btn-blue.wl-marginright10.wl-flex-right.wl-txt-cntr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd7d22f1-cfc9-4c7e-8d1c-46af198046bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>78330ca9-4706-495f-bdce-07a30432ac58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wl-btn wl-btn-blue wl-marginright10 wl-flex-right wl-txt-cntr</value>
+      <webElementGuid>c3f2b202-69e9-455d-8151-ba0f36fdf497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>$('#d413c10b-2e36-4a37-b55a-0378e7017b08').remove();return false;</value>
+      <webElementGuid>f2989868-ae9a-4944-b0f3-0da9bfec8690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            OK
+                                        </value>
+      <webElementGuid>17884ce7-041e-471c-abdc-1fd604ed7935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d413c10b-2e36-4a37-b55a-0378e7017b08&quot;)/div[@class=&quot;wl-msgbox-modal-content&quot;]/div[@class=&quot;wl-div-margintop10 wl-flex-center&quot;]/button[@class=&quot;wl-btn wl-btn-blue wl-marginright10 wl-flex-right wl-txt-cntr&quot;]</value>
+      <webElementGuid>7e5e388f-9312-4e00-8a98-7570d05a5d6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>348e6e59-3135-47f9-ba64-bc2382760100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d413c10b-2e36-4a37-b55a-0378e7017b08']/div/div[3]/button</value>
+      <webElementGuid>170149b9-0b99-4919-8b26-0a2ddaa35164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The clocktime has been updated successfully.'])[1]/following::button[1]</value>
+      <webElementGuid>33a4882d-5f13-4ad2-a640-1c7ce1bac891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[2]/following::button[1]</value>
+      <webElementGuid>a14e68cd-8b58-484a-981d-222d69c37a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::button[1]</value>
+      <webElementGuid>93b179b4-e940-45aa-b8f8-7dc9a9036a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[3]/button</value>
+      <webElementGuid>64c24703-8971-42b0-a3e6-010551e619ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                            OK
+                                        ' or . = '
+                                            OK
+                                        ')]</value>
+      <webElementGuid>3bd2efc2-6f31-47f0-8257-8d48771b6852</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OK</name>
+   <tag></tag>
+   <elementGuidId>6032a60c-5e96-40e6-bf9a-cf2b8bfc2124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d1a1f983-55f8-4532-ba8b-db7a00e69baa']/div/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wl-btn.wl-btn-blue.wl-marginright10.wl-flex-right.wl-txt-cntr > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28388433-cf0d-4edf-8011-9d9cacbb2d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>a9e65284-b398-4d9f-9305-bf73a19d0156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d1a1f983-55f8-4532-ba8b-db7a00e69baa&quot;)/div[@class=&quot;wl-msgbox-modal-content&quot;]/div[@class=&quot;wl-div-margintop10 wl-flex-center&quot;]/button[@class=&quot;wl-btn wl-btn-blue wl-marginright10 wl-flex-right wl-txt-cntr&quot;]/span[1]</value>
+      <webElementGuid>e7b0210e-6e7b-4fe7-9179-e73771eb4589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d1a1f983-55f8-4532-ba8b-db7a00e69baa']/div/div[3]/button/span</value>
+      <webElementGuid>50e092e2-d8af-4e17-b78d-fb3776c51eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheet submitted successfully.'])[1]/following::span[1]</value>
+      <webElementGuid>37b53c3f-1267-45de-8eba-f2268318ff9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Timesheet'])[1]/following::span[1]</value>
+      <webElementGuid>10e7587d-4a2e-48a3-af7d-b857b598cb8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::span[8]</value>
+      <webElementGuid>e32a30ae-eb90-4184-a60d-65b907010a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::span[9]</value>
+      <webElementGuid>903c8d4b-ba24-4291-82a8-0a3700f638f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>90eea571-4652-451f-96a7-5486b70c5a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>8c2ca72a-0715-42f4-801e-2effdfd0128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>662590ee-278f-471f-b031-e1a5be7c3d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6380e497-2b6e-4ed7-816c-89a7a407de9c']/div/div[3]/button/span</value>
+      <webElementGuid>7ed9f5b0-1fd3-4a10-afbd-c75b32c98906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Timesheet'])[2]/following::span[1]</value>
+      <webElementGuid>dbd61854-14fd-47ac-a1cc-7f831ee704eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Submit'])[1]/following::span[1]</value>
+      <webElementGuid>65dce44b-a183-4ff8-b6a1-89ec9e9df0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::span[1]</value>
+      <webElementGuid>4b9ab78c-1889-47ea-9884-2726798f91e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::span[2]</value>
+      <webElementGuid>b34ab824-32c2-4af3-b285-d3fc140d7cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/button/span</value>
+      <webElementGuid>dfd940f7-960e-4ec6-926f-0e40024c4b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

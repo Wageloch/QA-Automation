@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create</name>
+   <tag></tag>
+   <elementGuidId>ba321eb7-d83d-4a10-b97e-d89ae0915eb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#MainContent_ucEditClockTimes_btnCreate > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='MainContent_ucEditClockTimes_btnCreate']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9841e7e3-25c1-4c7d-8cd3-aac3008b84d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>0713dae9-dd63-485b-9f84-b4539a577ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ucEditClockTimes_btnCreate&quot;)/span[1]</value>
+      <webElementGuid>a909a664-a87a-4a17-bdb1-41ee39054637</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='MainContent_ucEditClockTimes_btnCreate']/span</value>
+      <webElementGuid>10c6e55f-5fcf-42f9-aafd-4bb67b0d5cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In'])[1]/following::span[1]</value>
+      <webElementGuid>011ddf81-4809-4fae-96ae-a5fd713acdae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Name'])[1]/following::span[2]</value>
+      <webElementGuid>80378dc4-c64b-4b26-b613-89a5e111dbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/preceding::span[1]</value>
+      <webElementGuid>689479c6-5980-42e8-87ac-a02d0fdf5e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::span[9]</value>
+      <webElementGuid>8217022d-4f4a-4db8-9d7b-2a4c3cd8021f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>82042b4c-0401-4c83-aefd-5500ef02bc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>69b7a951-a247-491e-afab-95000b1dbe4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>dea5c33f-0301-4ce6-99de-291774f5e7bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

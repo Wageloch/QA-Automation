@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Central Site 4_zloader</name>
+   <tag></tag>
+   <elementGuidId>4b33369a-c735-43ae-aeb8-0aa8bda4fe4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UpdatePp1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zloader</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#UpdatePp1 div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c601794b-b68e-4ec8-9a6b-ec48ee87cc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zloader</value>
+      <webElementGuid>8695791f-e3b8-44aa-9ef9-274a9c30622a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UpdatePp1&quot;)/div[@class=&quot;zloader&quot;]</value>
+      <webElementGuid>a4eab421-991b-43f7-b0a6-4f776d61b7e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePp1']/div</value>
+      <webElementGuid>51f52e5e-28a8-401c-b2fd-2cbe3117a6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Site 4'])[2]/following::div[7]</value>
+      <webElementGuid>6e072420-1134-459b-a499-4747b14e9546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Site 3'])[2]/following::div[7]</value>
+      <webElementGuid>77120a7b-a257-4c67-9b65-6d23bcce2537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::div[5]</value>
+      <webElementGuid>9e57f552-a699-45c0-9005-d6046a7ecc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::div[7]</value>
+      <webElementGuid>b0454c06-7e6e-48e6-9618-dfd6ea80fba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div</value>
+      <webElementGuid>94caab20-d917-4c9f-90c4-dc9370b88e86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

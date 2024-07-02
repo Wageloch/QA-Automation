@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Done_fas fa-check wl-btn-icon-left</name>
+   <tag></tag>
+   <elementGuidId>94ba08f3-c9c8-4020-a6dd-73ffc4e5c517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='MainContent_ucEditClockTimes_btnEditStaffClockTimeDone']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-check.wl-btn-icon-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Done &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8558542e-74c3-4850-be6d-5b2977907a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-check wl-btn-icon-left</value>
+      <webElementGuid>08c0c498-02c8-485e-aa15-3328e6d9342f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ucEditClockTimes_btnEditStaffClockTimeDone&quot;)/i[@class=&quot;fas fa-check wl-btn-icon-left&quot;]</value>
+      <webElementGuid>b9fc09ed-0132-420d-8de0-44792dff4184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='MainContent_ucEditClockTimes_btnEditStaffClockTimeDone']/i</value>
+      <webElementGuid>bfee0f4f-5559-4641-b062-4a008bd53ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]/i</value>
+      <webElementGuid>20e3cd95-cdb4-4413-9f37-4697d83a1f9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

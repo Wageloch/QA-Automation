@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select All</name>
+   <tag></tag>
+   <elementGuidId>544104b0-819f-4c7b-83c6-795bd25b064c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MainContent_tbsReportSelection_pnlFilter']/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#MainContent_tbsReportSelection_pnlFilter >> internal:text=&quot;Select All&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d56abc0d-2b20-4532-bd16-9770a74d6cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>MainContent_tbsReportSelection_chkToggle</value>
+      <webElementGuid>26bace96-423a-4968-b0fc-9bae295094b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select All</value>
+      <webElementGuid>8b625e8e-c19b-4609-b48f-c8ae9a55d0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_tbsReportSelection_pnlFilter&quot;)/div[@class=&quot;wl-flex-center wl-div-margintop10&quot;]/div[@class=&quot;wl-checkbox wl-checkbox-primary&quot;]/label[1]</value>
+      <webElementGuid>b58677e0-aab6-4690-9cd7-ae3c13e32855</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MainContent_tbsReportSelection_pnlFilter']/div[2]/div/label</value>
+      <webElementGuid>ece3e2cd-b326-4aaa-a7f2-7ac257af2527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter By Site Name:'])[1]/following::label[1]</value>
+      <webElementGuid>244f0144-e2b6-497a-ac3b-c03fc540d9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Favourites'])[1]/following::label[1]</value>
+      <webElementGuid>9f78ffe9-cc42-4cf1-bf12-fcf591c21849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Site 1'])[2]/preceding::label[2]</value>
+      <webElementGuid>57a08e4a-55d3-4702-97b0-13cea9ee9b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Site 2'])[2]/preceding::label[3]</value>
+      <webElementGuid>6d5a03f5-58b7-4836-abb4-78cece053722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select All']/parent::*</value>
+      <webElementGuid>b956df40-5002-4e00-ad31-c34efb09f3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>59a1e5f3-a61f-4f86-bdea-ce2681bc23dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select All' or . = 'Select All')]</value>
+      <webElementGuid>dfd8e5ce-931f-43e2-ba48-be77f5201f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

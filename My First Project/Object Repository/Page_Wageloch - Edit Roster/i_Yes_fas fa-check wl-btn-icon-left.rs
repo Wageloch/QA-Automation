@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Yes_fas fa-check wl-btn-icon-left</name>
+   <tag></tag>
+   <elementGuidId>d3ab5078-3be2-403d-8f99-65fc4def55b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='MainContent_ucMessageBox_btnYes']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-check.wl-btn-icon-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Yes &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6cf76ae2-2bb8-44b0-8f9a-14cbc39128c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-check wl-btn-icon-left</value>
+      <webElementGuid>77982d83-c044-45d0-9787-14388f9029e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ucMessageBox_btnYes&quot;)/i[@class=&quot;fas fa-check wl-btn-icon-left&quot;]</value>
+      <webElementGuid>557dea3f-c279-4bb6-82a1-6765b86a3503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='MainContent_ucMessageBox_btnYes']/i</value>
+      <webElementGuid>0c84a9ae-657c-4dba-8c3d-04d462abd66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/i</value>
+      <webElementGuid>7b6d7505-e1b2-4a76-aecd-9fd58f77ac64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

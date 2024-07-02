@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC001 - Submit timesheet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0acdcdbd-4578-45fd-9fe8-20b28e76ba05</testCaseGuid>
+</TestCaseEntity>

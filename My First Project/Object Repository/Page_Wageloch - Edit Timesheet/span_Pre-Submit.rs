@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pre-Submit</name>
+   <tag></tag>
+   <elementGuidId>0afb3d64-871a-448b-b8f5-4599db38bd7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='MainContent_ucEditTimesheet_ctl01_btnPreSubmit']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MainContent_ucEditTimesheet_ctl01_btnPreSubmit > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Pre-Submit &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ffe5272-e14b-4c6e-b6d7-9bcf2460efc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pre-Submit</value>
+      <webElementGuid>01985d51-d450-4875-9d3e-e1ed7c529208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ucEditTimesheet_ctl01_btnPreSubmit&quot;)/span[1]</value>
+      <webElementGuid>db90a8e3-35dd-4562-a1e5-6a91985ebd38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='MainContent_ucEditTimesheet_ctl01_btnPreSubmit']/span</value>
+      <webElementGuid>7f5c3f6a-3df2-430f-a538-84ab5c7c5bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Calculations'])[1]/following::span[1]</value>
+      <webElementGuid>bfa3c5f0-f4c2-4fb2-b471-9dabf453a889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Cost Per Shift'])[1]/following::span[2]</value>
+      <webElementGuid>c2bf4780-c43a-418b-bb60-6bb6eb27680a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 - Wageloch'])[1]/preceding::span[1]</value>
+      <webElementGuid>e444736d-bcd3-4edf-af68-c600f9996220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Required'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f3154aa-3d4a-41da-b38b-b9097fbee18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pre-Submit']/parent::*</value>
+      <webElementGuid>5b8b8d75-9d7f-42ee-a3b7-7c56cd3e9a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>07357cad-aa4f-4d4e-8701-668f7ebe88c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pre-Submit' or . = 'Pre-Submit')]</value>
+      <webElementGuid>98ec4744-ea14-4278-ba12-047b0d796514</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
